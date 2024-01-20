@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'KoPubWorldBatangPM';
+    src: url('./fonts/KoPubWorldBatangPM.eot');
+    src: url('./fonts/KoPubWorldBatangPM.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/KoPubWorldBatangPM.woff2') format('woff2'),
+        url('./fonts/KoPubWorldBatangPM.woff') format('woff'),
+        url('./fonts/KoPubWorldBatangPM.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MMa TextBook';
+    src: url('./fonts/MMaTextBook-Bold.eot');
+    src: url('./fonts/MMaTextBook-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/MMaTextBook-Bold.woff2') format('woff2'),
+        url('./fonts/MMaTextBook-Bold.woff') format('woff'),
+        url('./fonts/MMaTextBook-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    src: url('./fonts/NanumSquareEB.eot');
+    src: url('./fonts/NanumSquareEB.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/NanumSquareEB.woff2') format('woff2'),
+        url('./fonts/NanumSquareEB.woff') format('woff'),
+        url('./fonts/NanumSquareEB.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

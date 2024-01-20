@@ -1,0 +1,128 @@
+.table_action_btn a{
+    height: auto !important;
+    padding: 5px 20px !important;
+}
+
+.table_action_btn button{
+    height: auto !important;
+    padding: 5px 20px !important;
+}
+
+.table_action_btn img{
+    width: 17px !important;
+}
+
+.custom_dropdown > button{
+    padding: 5px 20px 5px 10px !important;
+    height: 38px !important;
+}
+
+.form_action_btn .btn{
+    padding: 5px 20px;
+    height: 28px;
+}
+
+.thumbnail_img img{
+    width: 50px;
+}
+
+#video_wrap .vjs-big-play-button {
+    display: none !important;
+}
+
+.dropzone .dz-message{
+    margin: 7em 0 !important;
+}
+.dropzone{
+    min-height: 250px !important;
+}
+
+.dz-success-mark{
+    opacity: 0.5 !important;
+    height: 60px !important;
+    width: 60px !important;
+    margin: 0px auto !important;
+    left: 0 !important;
+    right: 0 !important;
+    transition: all 2s linear 2s;
+}
+
+.vue-dropzone > .vue-dropzone > .dz-preview .dz-error-mark{
+    top: 60% !important;
+}
+
+.video_list .inner .inner_wrap img{
+    width: 232px !important;
+    height: 130px !important;
+}
+
+.video_list .inner{
+    width: auto !important;
+}
+
+.video_list .inner .inner_wrap .icons span{
+    background: #00B4FF !important;
+}
+
+.custom_tabs .video_tabs {
+    margin-bottom: 0;
+}
+
+.custom_tabs .video_tabs {
+    margin-bottom: 0;
+}
+.video_tabs ul{
+    display: flex;
+}
+
+.custom_tabs .video_tabs ul{
+    padding-left: 25px;
+}
+
+.custom_tabs .video_tabs ul li{
+    margin: 0px 2px;
+    background: #BCEBFF;
+    border-radius: 10px 10px 0px 0px;
+    border: none;
+    color: #171717;
+    font-size: 14px;
+    padding: 12px 45px;
+    font-weight: bold;
+    flex: none;
+    width: auto;
+}
+
+.custom_tabs .video_tabs ul li.active{
+    background: #fff !important;
+    border: none;
+    color: #171717;
+}
+
+.video_tab_content{
+    display: none;
+}
+.video_tab_content.show{
+    display: block;
+}
+
+.dropzone_disable .dz-message{
+    display: none;
+}
+
+.vue-dropzone>.dz-preview .dz-remove{
+    opacity: 1 !important;
+    pointer-events: auto;
+}
+
+.table_action_btn .status_update{
+    padding: 7px 20px !important;
+}
+#video_wrap .video-js{
+    position: relative;
+    padding-top: 50%;
+    background-color: #000 !important;
+}
+
+.drop-down .options ul{
+    min-width: 200px !important;
+}

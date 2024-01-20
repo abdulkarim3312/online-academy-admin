@@ -1,0 +1,59 @@
+.custom_quiz_content .custom_quiz_content_inner .inner_left .question_title p math{
+    margin: 0px;
+    font-weight : bold;
+    font-family: auto !important;
+    // position: relative;
+    // top: 13px;
+}
+.custom_quiz_content .custom_quiz_content_inner .inner_left .question_title  mrow mn:first-of-type{
+    padding-right: 5px;
+}
+.custom_quiz_content .custom_quiz_content_inner .inner_left .question_title  mfrac mn:first-of-type{
+    padding-right: 0px;
+}
+.custom_quiz_content .custom_quiz_content_inner .inner_left .question_title h2{
+    // position: relative;
+    // top: 13px;
+    font-weight : bold;
+    font-family: auto !important;
+}
+
+.custom_quiz_content .custom_quiz_content_inner .inner_left .question_title p span{
+    font-weight : bold;
+    font-family: auto !important;
+    // display: inline-flex !important;
+}
+
+.custom_quiz_content .custom_quiz_content_inner .inner_left .question_title .MathJax_Preview{
+    color:#000 !important;
+}
+
+.custom_quiz_content .custom_quiz_content_inner .inner_left .question_title .MJXc-display{
+    color:#000 !important;
+    margin-right: 5px !important;
+    margin: 40px 0px 0px 0px !important;
+}
+
+.custom_quiz_content .custom_quiz_content_inner .inner_left .question_title span{
+    margin-right: 2px;
+    color: #000;
+}
+
+.question_title .question_number{
+    position: relative;
+    top: 2px;
+    margin-right: 10px !important;
+    color: #33B1FF !important;
+}
+
+.math_question .question_number{
+    position: relative;
+    top: 6px;
+}
+
+.custom_quiz_content .custom_quiz_content_inner .inner_right .answer_heading .body .answer_multiple_checked .inner .form_radio label div span{
+    display: inline-flex !important;
+}
+// .question_title .mjx-numerator{
+//     top: -32px !important;
+// }
